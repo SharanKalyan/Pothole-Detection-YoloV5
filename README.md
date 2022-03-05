@@ -4,7 +4,7 @@ Source - https://www.roboflow.com
 
 I have used the Yolov5x6.pt pretrained weight for training! I have trainied it for 200 iterations and Here is a sample output! 
 
-clone the yolov5 repository ! 
+refference : https://github.com/ultralytics/yolov5 
 
 ![image](https://user-images.githubusercontent.com/20862520/156115286-8c84befa-a168-4086-afcd-06aa142c0cfb.png)
 
